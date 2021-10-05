@@ -2,6 +2,6 @@
     Estudante de Progamação
     E amante da Tecnologia
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wnetina&theme=dark&show_icons=true)
+![WNetin's GitHub stats](https://github-readme-stats.vercel.app/api?username=WNetina&theme=dark&show_icons=true)
 
 
